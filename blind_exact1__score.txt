@@ -1,0 +1,7 @@
+musicvideo,100.0,372
+starcraft,11.0,200
+sports,9.0,57
+traffic,7.0,216
+movie,4.0,120
+flowers,1.0,61
+interview,1.0,305

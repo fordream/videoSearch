@@ -1,0 +1,7 @@
+movie,87.0,165
+musicvideo,59.0,81
+interview,50.0,204
+starcraft,35.0,188
+traffic,31.0,220
+sports,21.0,57
+flowers,14.0,61
